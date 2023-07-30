@@ -1,2 +1,2 @@
 # KTGF
-This work has been submitted to Machine Intelligence Research (MIR), our code will be released after publication. 
+A Knowledge-enhanced Two-stage Generative Framework for Medical Dialogue Information Extraction, Machine Intelligence Research (MIR). 
